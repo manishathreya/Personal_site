@@ -29,8 +29,9 @@ h3{
     height:60px;
 }
 .top_cloud{
-    position:relative;
-    left:300px;
+    position:absolute;
+    right:300px;
+    top:100px;
     height:60px;
 }
 .my_image{
