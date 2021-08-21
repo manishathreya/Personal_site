@@ -23,6 +23,7 @@ h3{
 .top-container{
     padding-top:100px;
     background-color:#7DEDFF;
+    width:100%;
 }
 .bottom_cloud{
     position:absolute;
