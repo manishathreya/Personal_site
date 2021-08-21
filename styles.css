@@ -30,9 +30,8 @@ h3{
     height:60px;
 }
 .top_cloud{
-    position:absolute;
+    position:relative;
     right:300px;
-    top:100px;
     height:60px;
 }
 .my_image{
